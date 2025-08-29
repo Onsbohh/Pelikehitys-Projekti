@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Lever
+  - Lever2
+  - Lever3
+  - Door2
+  - CheckPoint
+  - DoubleDoor
+  - MazeWallLeft
+  - MazeWallTop
+  - DoubleDoor
+  - StartMSG
+  - RunHelp
+  - DoorHelp
+  - JumpHelp
+  - LeverTrigger
+  - KeyTrigger
+  - "tyhj\xE4"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - help
+  - 
+  - PostProcessing
+  - ClipBrush
+  - FirstPersonWeapon
+  - PhysicalAmmo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 788040023
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3922283465
+    locked: 0
