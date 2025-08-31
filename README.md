@@ -1,6 +1,3 @@
-Pelikehtys kurssiprojekti
+# Pelikehtys kurssiprojekti
 
-Tekijät:
-Tapio Humaljoki
-Onni Pajula
-Anton Saarinen
+Tekijät: Tapio Humaljoki, Onni Pajula ja Anton Saarinen
